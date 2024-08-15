@@ -22,14 +22,14 @@
     "@ethereumjs/block": "^3.5.1",
     "@ethereumjs/tx": "^3.3.2",
     "@ethereumjs/vm": "^5.5.3",
-    "@remix-project/remix-astwalker": "^0.0.44",
+    "@remix-project/remix-astwalker": "^0.0.64",
     "@remix-project/remix-lib": "^0.5.14",
     "async": "^2.6.2",
     "ethereumjs-util": "^7.0.10",
-    "ethers": "^5.4.2",
+    "ethers": "^6.0.0",
     "ethjs-util": "^0.1.6",
     "string-similarity": "^4.0.4",
-    "web3": "^1.5.1"
+    "web3": "^4.0.1"
   },
   "publishConfig": {
     "access": "public"
