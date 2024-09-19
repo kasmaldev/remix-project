@@ -23,7 +23,7 @@
   "typings": "./src/index.d.ts",
   "dependencies": {
     "ethers": "^5.4.2",
-    "web3": "^1.5.1"
+    "web3": "^4.13.0"
   },
   "gitHead": "3f311aaf25f5796f70711006bb783ee4087ffc71"
 }
