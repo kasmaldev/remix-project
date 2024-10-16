@@ -22,8 +22,8 @@
   "homepage": "https://github.com/ethereum/remix-project/tree/master/libs/remix-ws-templates#readme",
   "typings": "./src/index.d.ts",
   "dependencies": {
-    "ethers": "^5.4.2",
-    "web3": "^1.5.1"
+    "ethers": "^6.0.0",
+    "web3": "^4.2.0"
   },
   "gitHead": "3f311aaf25f5796f70711006bb783ee4087ffc71"
 }
