@@ -38,7 +38,7 @@
     "@ethereumjs/block": "^3.5.1",
     "@ethereumjs/common": "^2.5.0",
     "@ethereumjs/tx": "^3.3.2",
-    "@ethereumjs/vm": "^5.5.3",
+    "@ethereumjs/vm": "^6.0.0",
     "@remix-project/remix-lib": "^0.5.14",
     "@remix-project/remix-simulator": "^0.2.14",
     "@remix-project/remix-solidity": "^0.5.0",
@@ -51,7 +51,7 @@
     "commander": "^2.13.0",
     "deep-equal": "^1.0.1",
     "ethereumjs-util": "^7.0.10",
-    "ethers": "^5.4.2",
+    "ethers": "^6.0.0",
     "ethjs-util": "^0.1.6",
     "express-ws": "^4.0.0",
     "merge": "^1.2.0",
@@ -59,7 +59,7 @@
     "string-similarity": "^4.0.4",
     "time-stamp": "^2.2.0",
     "tslib": "^2.3.0",
-    "web3": "^1.5.1",
+    "web3": "^4.2.0",
     "winston": "^3.0.0"
   },
   "peerDependencies": {
