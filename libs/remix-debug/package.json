@@ -22,7 +22,7 @@
     "@ethereumjs/common": "^2.5.0",
     "@ethereumjs/tx": "^3.3.2",
     "@ethereumjs/vm": "^5.5.3",
-    "@remix-project/remix-astwalker": "^0.0.44",
+    "@remix-project/remix-astwalker": "^0.0.64",
     "@remix-project/remix-lib": "^0.5.14",
     "@remix-project/remix-simulator": "^0.2.14",
     "ansi-gray": "^0.1.1",
